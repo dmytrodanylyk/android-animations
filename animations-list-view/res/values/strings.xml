@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">animations-list-view</string>
+    <string name="test_string_short">Lorem ipsum dolor sit amet</string>
+    <string-array name="animation_list">
+        <item>Curl</item>
+        <item>Twirl</item>
+        <item>Zipper</item>
+        <item>Fade</item>
+        <item>Fly</item>
+        <item>Reverse Fly</item>
+        <item>Flip</item>
+        <item>Cards</item>
+        <item>Grow</item>
+        <item>Wave</item>
+    </string-array>
+</resources>

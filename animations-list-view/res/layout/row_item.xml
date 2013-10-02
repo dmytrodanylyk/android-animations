@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+          android:padding="@dimen/row_item_padding"
+          android:background="@color/row_item_background"
+          android:textColor="@color/row_item_text_color"
+          android:text="@string/test_string_short"
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"/>
